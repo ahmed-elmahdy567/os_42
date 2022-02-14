@@ -1,1 +1,3 @@
-console.log('notification');
+var noti = function ()=>{
+  console.log('run');
+}
