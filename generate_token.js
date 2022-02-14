@@ -1,1 +1,1 @@
-console.log('geenerate token')
+console.log('generate token')
